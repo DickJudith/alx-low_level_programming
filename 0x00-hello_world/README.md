@@ -1,1 +1,1 @@
-script that compiles c file and creates an executable
+C program that prints using the function puts
