@@ -1,1 +1,1 @@
-script that generates the assembly code and save
+c program that prints
