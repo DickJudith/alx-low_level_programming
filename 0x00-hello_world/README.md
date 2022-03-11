@@ -1,1 +1,1 @@
-C program that prints using the function puts
+c program that prints
