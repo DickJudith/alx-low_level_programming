@@ -1,1 +1,1 @@
-script that compiles a c file but doesnt link
+script that generates the assembly code of a c code and saves in another file
