@@ -21,5 +21,5 @@ int main(void)
 	else 
 		printf("%i is zero\n", n);
 
-	retrun (0);
+	retrun(0);
 }
