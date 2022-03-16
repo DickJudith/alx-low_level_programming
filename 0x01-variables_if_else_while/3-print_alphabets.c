@@ -2,7 +2,7 @@
 /**
  * main - main block
  * Description: program that prints alphabet in lower and upper case
- * Result: 0
+ * Return: 0 (success)
  */
 int main(void)
 {
