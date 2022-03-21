@@ -2,20 +2,20 @@
 
 /**
  * main- program that prints followed by a new line
+ * @void: no argument
  * Return: 0 (success)
  */
 
 int main(void)
 {
-	putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('\n');
+	char ermias[] = "_putchar";
+
+	int c;
+
+	for (c = 0; c < 8; c++)
+	{_putchar(ermias[c]);
+	}
+	_putchar('\n');
 
 	return (0);
 }
