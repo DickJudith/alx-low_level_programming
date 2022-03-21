@@ -13,7 +13,7 @@ int main(void)
 	{
 		sum = pri + sec;
 		printf(", %lu", sum);
-		prin = sec;
+		pri = sec;
 		sec = sum;
 	}
 	printf("\n");
