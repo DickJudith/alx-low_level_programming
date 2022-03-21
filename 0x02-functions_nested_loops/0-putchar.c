@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main- program that prints followed by a new line
+ * main - program that prints followed by a new line
  * @void: no argument
  * Return: 0 (success)
  */
