@@ -2,7 +2,7 @@
 #include <stddef.h>
 
 /**
- * list_len: program that returns number of element
+ * list_len - program that returns number of element
  * @h: singly linked list
  * Return: number of elements
  */
