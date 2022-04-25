@@ -7,14 +7,15 @@
  */
 
 size_t print_listint(const listint_t *h)
+
 {
-	struct node *ptr = NULL;
+	size_t count = 0;
 
-	ptr = head;
-
-	while (ptr != Null)
-		printf("%d\n", ptr->data);
-	ptr = ptr->link;
-
-	return (0);
+	while (h != NULL)
+	{
+		printf("%d\n", h->n);
+		h = h->next;
+		count++;
+	}
+	return (count);
 }
